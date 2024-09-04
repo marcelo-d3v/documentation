@@ -2,10 +2,20 @@
 
 ## MAVEN e GIT
 
-**1. Instalação**
+**1. Instalação e versão**
 
-- Atualizar os pacotes: *sudo apt-get update*  
-- Instalação do Maven: *sudo apt-get -y install maven*  
-- Versão do Maven: *mvn --version*  
-- Instalação do Git: *sudo apt-get install git*
-- Versão do Git: *git --version*  
+- Atualização dos pacotes:  
+  ```
+  $ sudo apt-get update
+  ```
+- Instalação e versão do Maven:
+  ```
+  $ sudo apt-get -y install maven
+  $ mvn --version
+  ```
+- Instalação e versão do Git:
+  ```
+  $ sudo apt-get install git
+  $ git --version
+  ```
+  
