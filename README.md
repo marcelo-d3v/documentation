@@ -46,9 +46,9 @@ Este repositório tem como objetivo:
 O conteúdo está organizado na Wiki por categorias e tópicos, seguindo uma abordagem progressiva:
 
 * Conceitos fundamentais
-* Práticas de mercado
+* Boas práticas
 * Exemplos e aplicações
-* Resumos para revisão
+* Resumos em tópicos para revisão
 
 ---
 
