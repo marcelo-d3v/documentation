@@ -12,15 +12,15 @@ Repositório dedicado à documentação dos meus estudos contendo resumos, tópi
 
 ## 📚 Estudos em TI
 
-🧠 Fundamentos de Computação
-🌐 Infraestrutura, Redes e Plataforma
-💾 Banco de Dados, BI e Engenharia de Dados<
-⚙️ Engenharia de Software
-💻 Desenvolvimento de Software
-🧪 Ciência de Dados
-🤖 Inteligência Artificial
-🔐 Segurança da Informação
-🏛️ Gestão e Governança de TI
+🧠 Fundamentos de Computação<br>
+🌐 Infraestrutura, Redes e Plataforma<br>
+💾 Banco de Dados, BI e Engenharia de Dados<br>
+⚙️ Engenharia de Software<br>
+💻 Desenvolvimento de Software<br>
+🧪 Ciência de Dados<br>
+🤖 Inteligência Artificial<br>
+🔐 Segurança da Informação<br>
+🏛️ Gestão e Governança de TI<br>
 ⚖️ Legislação em TI
 
 ---
