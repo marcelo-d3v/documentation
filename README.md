@@ -10,24 +10,54 @@ Repositório dedicado à documentação dos meus estudos contendo resumos, tópi
 
 👉 **[Ir para a Wiki](../../wiki)**
 
-A Wiki contém todo o material estruturado, incluindo:
-
-* Bancos de Dados
-* Ciência de Dados
-* Desenvolvimento Mobile
-* Desenvolvimento Web
-* Engenharia de Software
-* Gestão e Governança
-* Infraestrutura
-* Inteligência Artificial
-* Legislação
-* Linguagens de Programação
-* Redes
-* Segurança da Informação
-* Sistemas de Informação
-* Sistemas Operacionais
-* Virtualização e Containers
-* Outros tópicos relevantes para mercado e concursos // to do
+mindmap
+  root((Estudos em TI))
+    Fundamentos
+      Sistemas Operacionais
+      Arquitetura de Computadores
+      Sistemas de Informação
+    Infraestrutura e Redes
+      Redes
+        OSI/TCP-IP
+        Topologias
+      Cloud
+      Containers
+        Docker
+        Kubernetes
+      Observabilidade
+    Dados
+      Modelos
+      SQL
+      SGBDs
+      NoSQL
+      BI
+      Big Data
+    Engenharia de Software
+      Requisitos
+      UML
+      Arquitetura
+      DevOps
+      Testes
+    Desenvolvimento
+      Linguagens
+      Web
+      Mobile
+    IA
+      Machine Learning
+      Deep Learning
+      IA Generativa
+      MLOps
+    Segurança
+      ISO 27001
+      IAM
+      Zero Trust
+    Governança
+      COBIT
+      ITIL
+      PMBOK
+    Legislação
+      LGPD
+      Marco Civil
 
 ---
 
