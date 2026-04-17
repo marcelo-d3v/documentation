@@ -26,7 +26,7 @@ A Wiki contém todo o material estruturado, incluindo:
 * Segurança da Informação
 * Sistemas de Informação
 * Sistemas Operacionais
-* Virtualização e contêineres
+* Virtualização e Containers
 * Outros tópicos relevantes para mercado e concursos // to do
 
 ---
