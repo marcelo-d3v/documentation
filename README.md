@@ -10,6 +10,19 @@ Repositório dedicado à documentação dos meus estudos contendo resumos, tópi
 
 👉 **[Ir para a Wiki](../../wiki)**
 
+## 📚 Estudos em TI
+
+🧠 Fundamentos de Computação
+🌐 Infraestrutura, Redes e Plataforma
+💾 Banco de Dados, BI e Engenharia de Dados<
+⚙️ Engenharia de Software
+💻 Desenvolvimento de Software
+🧪 Ciência de Dados
+🤖 Inteligência Artificial
+🔐 Segurança da Informação
+🏛️ Gestão e Governança de TI
+⚖️ Legislação em TI
+
 ---
 
 ## 🎯 Objetivo
