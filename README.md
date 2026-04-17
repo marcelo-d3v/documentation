@@ -1,6 +1,6 @@
 # 📚 Tech Notes
 
-Repositório dedicado à organização de estudos em tecnologia, com foco em engenharia de software, desenvolvimento backend e preparação para concursos na área de TI.
+Repositório dedicado à documentação dos meus estudos contendo resumos, tópicos, códigos e mapas mentais de tecnologias, linguagens, ferramentas e boas práticas 
 
 > ⚠️ **Atenção:** O conteúdo principal está na seção **Wiki** deste repositório.
 
